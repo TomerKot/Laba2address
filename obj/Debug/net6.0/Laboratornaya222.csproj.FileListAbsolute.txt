@@ -1,0 +1,15 @@
+C:\Users\TomerKot\source\repos\Laboratornaya222\Laboratornaya222\bin\Debug\net6.0\Laboratornaya222.exe
+C:\Users\TomerKot\source\repos\Laboratornaya222\Laboratornaya222\bin\Debug\net6.0\Laboratornaya222.deps.json
+C:\Users\TomerKot\source\repos\Laboratornaya222\Laboratornaya222\bin\Debug\net6.0\Laboratornaya222.runtimeconfig.json
+C:\Users\TomerKot\source\repos\Laboratornaya222\Laboratornaya222\bin\Debug\net6.0\Laboratornaya222.dll
+C:\Users\TomerKot\source\repos\Laboratornaya222\Laboratornaya222\bin\Debug\net6.0\ref\Laboratornaya222.dll
+C:\Users\TomerKot\source\repos\Laboratornaya222\Laboratornaya222\bin\Debug\net6.0\Laboratornaya222.pdb
+C:\Users\TomerKot\source\repos\Laboratornaya222\Laboratornaya222\obj\Debug\net6.0\Laboratornaya222.csproj.AssemblyReference.cache
+C:\Users\TomerKot\source\repos\Laboratornaya222\Laboratornaya222\obj\Debug\net6.0\Laboratornaya222.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TomerKot\source\repos\Laboratornaya222\Laboratornaya222\obj\Debug\net6.0\Laboratornaya222.AssemblyInfoInputs.cache
+C:\Users\TomerKot\source\repos\Laboratornaya222\Laboratornaya222\obj\Debug\net6.0\Laboratornaya222.AssemblyInfo.cs
+C:\Users\TomerKot\source\repos\Laboratornaya222\Laboratornaya222\obj\Debug\net6.0\Laboratornaya222.csproj.CoreCompileInputs.cache
+C:\Users\TomerKot\source\repos\Laboratornaya222\Laboratornaya222\obj\Debug\net6.0\Laboratornaya222.dll
+C:\Users\TomerKot\source\repos\Laboratornaya222\Laboratornaya222\obj\Debug\net6.0\ref\Laboratornaya222.dll
+C:\Users\TomerKot\source\repos\Laboratornaya222\Laboratornaya222\obj\Debug\net6.0\Laboratornaya222.pdb
+C:\Users\TomerKot\source\repos\Laboratornaya222\Laboratornaya222\obj\Debug\net6.0\Laboratornaya222.genruntimeconfig.cache
